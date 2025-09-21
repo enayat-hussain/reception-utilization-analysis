@@ -32,7 +32,7 @@ It helps identify underutilized and overloaded time slots, visualize patterns in
 - `enhanced_reception_results.xlsx` → Enhanced dataset with utilization flags  
 
 Example visualization (heatmap of utilization):  
-![Utilization Heatmap](enhanced_reception_analysis.png)
+![Utilization Heatmap](reception_analysis.png)
 
 ## Requirements
 - Python 3.9+
